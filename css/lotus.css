@@ -142,10 +142,12 @@ footer .logotipo {
 }
 
 footer .logotipoGesad{
-    margin-top: 60px;
+    margin-top: 85px;
     border-radius: 48px;
+/*
     position: absolute;
     margin-left: -120px;
+*/
 }
 
 footer .col-popular-post,
